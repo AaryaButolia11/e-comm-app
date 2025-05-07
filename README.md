@@ -49,8 +49,6 @@ You can view a live demo by cloning the repository and opening the `index.html` 
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
 5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -123,3 +121,4 @@ simple-e-commerce/
 ├── styles.css         # Styling for both themes and layout
 ├── script.js          # JavaScript for app logic, cart, theme toggling
 └── README.md          # This file, project documentation
+
