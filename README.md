@@ -1,5 +1,7 @@
 # Simple E-Commerce Web Application
 
+
+
 ## Overview
 
 This is a **simple e-commerce web application** that allows users to browse a list of products, add them to their shopping cart, and proceed to checkout. The app also provides the ability to toggle between **light** and **dark themes**.
@@ -21,6 +23,16 @@ The cart is persistent using **localStorage**, so the contents are maintained ev
 - **Checkout**: Once the user is ready, they can checkout to finalize their order.
 - **Theme Toggle**: Switch between **light** and **dark themes** with a button click.
 - **Responsive**: The app is mobile-friendly, ensuring a great experience on all devices.
+
+---
+## Screenshots
+
+![Screenshot 2025-05-07 224220](https://github.com/user-attachments/assets/bf4baa40-3b97-4110-9f46-e5e9956a8de8)
+
+![Screenshot 2025-05-07 224227](https://github.com/user-attachments/assets/3600b552-18b7-4a01-8021-dd0506338575)
+
+
+![Screenshot 2025-05-07 224240](https://github.com/user-attachments/assets/97d9f68c-a1d4-4caf-b631-2601a0df9ba0)
 
 ---
 
